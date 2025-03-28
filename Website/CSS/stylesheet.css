@@ -1,0 +1,36 @@
+body{
+    background-color: #fffff0;
+}
+
+#menu {
+    padding: 5%;
+}
+
+li {
+    display: inline;
+}
+
+#menuBar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 60;
+    background-color: #333;
+}
+
+#menuBar a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#menuBar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+#menuBar a:hover {
+    background-color: #111;
+}
+
