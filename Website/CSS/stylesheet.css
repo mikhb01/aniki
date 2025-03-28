@@ -2,16 +2,17 @@ body{
     background-color: #fffff0;
 }
 
-#menu {
-    padding: 5%;
+/*#menu {
+    padding: 0 0 0 0;
 }
-
+*/
 li {
     display: inline;
 }
 
 #menuBar{
     list-style: none;
+    text-align: center;
     margin: 0;
     padding: 0;
     width: 60;
