@@ -27,11 +27,11 @@ li {
     text-decoration: none;
 }
 #menuBar a.active {
-    background-color: #04AA6D;
+    background-color: #FF6B6B;
     color: white;
 }
 
 #menuBar a:hover {
-    background-color: #111;
+    background-color: #FF8A7A;
 }
 
