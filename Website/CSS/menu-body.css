@@ -2,6 +2,10 @@ body{
     background-color: #fffff0;
 }
 
+body, html{
+    margin: 0;
+    padding: 0;
+}
 /*#menu {
     padding: 0 0 0 0;
 }
