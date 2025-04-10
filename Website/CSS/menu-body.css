@@ -6,10 +6,12 @@ body, html{
     margin: 0;
     padding: 0;
 }
-/*#menu {
-    padding: 0 0 0 0;
+
+#logo{
+    height: 47px;
+    float: left;
 }
-*/
+
 li {
     display: inline;
 }
