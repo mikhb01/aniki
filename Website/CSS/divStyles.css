@@ -10,6 +10,7 @@
     border-bottom: 4px solid black;
     padding: 0px;
     font-weight: bold;
+    font-family: sans-serif;
     background-color: rgb(56, 238, 241);
 }
 
@@ -19,6 +20,7 @@
     /* padding: 1dvh; */
     text-align: center;
     font-family:sans-serif;
+    background-color: orange;
 }
 
 #unlearned{
@@ -27,6 +29,7 @@
     /* padding: 1dvh; */
     text-align: center;
     font-family:sans-serif;
+    background-color: orange;
 }
 
 #learned{
@@ -35,6 +38,7 @@
     /* padding: 1dvh; */
     text-align: center;
     font-family:sans-serif;
+    background-color: orange;
 }
 
 #information{
