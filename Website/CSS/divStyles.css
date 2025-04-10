@@ -7,7 +7,7 @@
 
 #overviewTotal{
     border: 2px solid coral;
-    width: 33.33%;
+    /* width: 33.33%; */
     height: fit-content;
     padding: 10px;
     text-align: center;
@@ -16,7 +16,7 @@
 
 #unlearned{
     border: 2px solid sienna;
-    width: 33.33%;
+    /* width: 33.33%; */
     height: fit-content;
     padding: 10px;
     text-align: center;
@@ -25,7 +25,7 @@
 
 #learned{
     border: 2px solid navy;
-    width: 33.33%;
+    /* width: 33.33%; */
     height: fit-content;
     padding: 10px;
     text-align: center;
