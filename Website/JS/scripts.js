@@ -1,3 +1,5 @@
+let i = 0;
+
 function session() {
     let text = '{"words":[' +
     '{"vocabJP":"学校", "vocabENG":"School"},' +
@@ -6,7 +8,7 @@ function session() {
 
     const obj = JSON.parse(text);
 
-    document.getElementById("wordKanji").innerHTML = obj.words[0].vocabJP;
+    document.getElementById("wordKanji").innerHTML = obj.words[i].vocabJP;
     document.getElementById("writingAnswer").style.visibility = "visible";
     document.getElementById("startButton").style.visibility = "hidden";
     document.getElementById("submitButton").style.visibility = "visible";
@@ -21,12 +23,12 @@ function next() {
     const obj = JSON.parse(text);
 
     let x = document.getElementById("writingAnswer").value;
-    if(x.toLowerCase() === obj.words[0].vocabENG.toLowerCase()){
-        document.getElementById("word").innerHTML = obj.words[0].vocabJP;
-       // document.getElementById("word").innerHTML = obj.words[0].vocabENG;
-        document.getElementById("word").style.backgroundColor = "green";
-    }else{
-        document.getElementById("word").style.backgroundColor = "red";
-        document.getElementById("word").innerHTML = obj.words[0].vocabENG;
-    }
+      document.getElementById("word").style.backgroundColor = "palevioletred";
+        if(x.toLowerCase() === obj.words[i].vocabENG.toLowerCase()){
+            i++;
+            document.getElementById("word").innerHTML = obj.words[i].vocabJP;
+        }else{
+            document.getElementById("word").style.backgroundColor = "#840a0a";
+            document.getElementById("word").innerHTML = obj.words[i].vocabENG;
+      }
 }
