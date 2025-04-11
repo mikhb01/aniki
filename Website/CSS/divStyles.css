@@ -62,9 +62,10 @@
     font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;    ;
     font-size: xx-large;
     text-align: center;
+    color: black;
 }
 
-#writingAnswer {
+#writingAnswer{
     text-align: center;
     margin-left: 33.33dvw;
     margin-right: 33.33dvw;
@@ -76,6 +77,8 @@
 
 #startButton{
     text-align: center;
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;    ;
+    color: black;
     margin-left: 33.33dvw;
     margin-right: 33.33dvw;
     margin-top: 10dvh;
@@ -87,6 +90,8 @@
 }
 #submitButton{
     text-align: center;
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;    ;
+    color: black;
     margin-left: 33.33dvw;
     margin-right: 33.33dvw;
     margin-top: 10dvh;
