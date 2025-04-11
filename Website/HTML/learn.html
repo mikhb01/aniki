@@ -6,15 +6,35 @@
         <link rel="stylesheet" href="../CSS/menu-body.css">
         <link rel="stylesheet" href="../CSS/divStyles.css">
         <link rel="icon" type="image/x-icon" href="../Pictures/anikiFavicon.png">
+        <script src="../JS/scripts.js"></script>
     </head>
     <body>
-        <div id="menu">
-            <img src="../Pictures/anikiFavicon.png" alt="logo" style="height: 47px; float: left;">
-            <ul id="menuBar">
-                <li><a href="../../index.html">Home</a></li>
-                <li><a href="overview.html">Overview</a></li>
-                <li><a class="active" href="learn.html">Learn</a></li>
-            </ul>
+        <section>
+            <nav>
+                <div id="menu">
+                    <img src="../Pictures/anikiFavicon.png" alt="logo" style="height: 47px; float: left;">
+                    <ul id="menuBar">
+                        <li><a href="../../index.html">Home</a></li>
+                        <li><a href="overview.html">Overview</a></li>
+                        <li><a class="active" href="learn.html">Learn</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </section>
+        <div id="word">
+            <p id="wordKanji"></p>
+            <p id="wordVocab"></p>
         </div>
+        <div class="container">
+            <div></div>
+            <div id="answerField">
+                <form>
+                    <input type="text" id="writingAnswer" name="writingAnswer" required></br>
+                    <input type="button" id="startButton" name="startButton" value="Start" onclick="session()">
+                    <input type="button" id="submitButton" name="submitButton" value="Submit" onclick="next()">
+                </form>
+            </div>
+            <div></div>
+        </div>  
     </body>
 </html>
