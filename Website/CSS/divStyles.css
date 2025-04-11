@@ -87,8 +87,8 @@
     margin-top: 10dvh;
     width: 33.33dvw;
     height: 5dvh;
-    background-color: green;
-    border: 2px solid green;
+    background-color: rgb(34, 214, 34);
+    border: 2px solid rgb(34, 214, 34);
     border-radius: 25dvw;
 }
 
@@ -105,8 +105,8 @@
     margin-top: 10dvh;
     width: 33.33dvw;
     height: 5dvh;
-    background-color: green;
-    border: 2px solid green;
+    background-color: rgb(34, 214, 34);
+    border: 2px solid rgb(34, 214, 34);
     border-radius: 25dvw;
     display: none;
     float: right;
