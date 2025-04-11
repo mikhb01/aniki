@@ -1,7 +1,7 @@
 {
 "words":[
-    {"vocabJP":"学校", "vocabENG":"School"},
-    {"vocabJP":"自動販売機", "vocabENG":"Vending machine"},
-    {"vocabJP":"会社", "vocabENG":"Company"}
+    {"vocabJP":"学校", "vocabENG":"School", "SRS":"1", "dueDate":"2025-04-12"},
+    {"vocabJP":"自動販売機", "vocabENG":"Vending machine", "SRS":"1", "dueDate":"2025-04-12"},
+    {"vocabJP":"会社", "vocabENG":"Company", "SRS":"1", "dueDate":"2025-04-12"}
 ]
 }
