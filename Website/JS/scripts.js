@@ -1,6 +1,5 @@
 let i = 0;
 
-
 async function loadWords() {
     const response = await fetch("../JSON/test.json", {headers:{'Accept': 'application/json'}});
 
@@ -31,10 +30,12 @@ async function nextWord() {
     let x = document.getElementById("writingAnswer").value;
     document.getElementById("word").style.backgroundColor = "palevioletred";
       if(x.toLowerCase() === obj.words[i].vocabENG.toLowerCase()){
-          i++;
-          document.getElementById("wordKanji").innerHTML = obj.words[i].vocabJP;
+        obj.words[i].SRS++;
+        i++;
+        document.getElementById("wordKanji").innerHTML = obj.words[i].vocabJP;
       }else{
-          document.getElementById("word").style.backgroundColor = "#840a0a";
-          document.getElementById("word").innerHTML = obj.words[i].vocabENG;
+        obj.words[i].SRS--;
+        document.getElementById("word").style.backgroundColor = "rgb(172, 65, 65)";
+        document.getElementById("word").innerHTML = obj.words[i].vocabENG;
     }
 }
