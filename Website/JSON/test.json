@@ -1,7 +1,4036 @@
 {
 "words":[
-    {"vocabJP":"学校", "vocabENG":"School", "SRS":"1", "dueDate":"2025-04-12"},
-    {"vocabJP":"自動販売機", "vocabENG":"Vending machine", "SRS":"1", "dueDate":"2025-04-12"},
-    {"vocabJP":"会社", "vocabENG":"Company", "SRS":"1", "dueDate":"2025-04-12"}
-]
-}
+    {
+        "vocabJP":"学校", 
+        "vocabENG":"School", 
+        "reading":"がっこう", 
+        "SRS":"1", 
+        "dueDate":"2025-08-12"
+    },
+    {
+        "vocabJP":"自動販売機", 
+        "vocabENG":"Vending machine", 
+        "reading":"じどうはんばいき", 
+        "SRS":"1", 
+        "dueDate":"2025-08-12"
+    },
+    {
+        "vocabJP":"会社", 
+        "vocabENG":"Company", 
+        "reading":"かいしゃ", 
+        "SRS":"1", 
+        "dueDate":"2025-08-12"
+    },
+    {
+        "vocabJP": "学校",
+        "vocabENG": "school",
+        "reading": "学校[がっこう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "川",
+        "vocabENG": "river, stream",
+        "reading": "川[かわ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "手",
+        "vocabENG": "hand, arm",
+        "reading": "手[て]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "戸",
+        "vocabENG": "door (esp. Japanese-style)",
+        "reading": "戸[と]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "赤",
+        "vocabENG": "red, crimson, scarlet",
+        "reading": "赤[あか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "仕事",
+        "vocabENG": "work, job, labor, labour, business, task, assignment, occupation, employment",
+        "reading": "仕事[しごと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "英語",
+        "vocabENG": "English (language)",
+        "reading": "英語[えいご]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "問題",
+        "vocabENG": "question (e.g. on a test), problem",
+        "reading": "問題[もんだい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "部屋",
+        "vocabENG": "room, chamber",
+        "reading": "部屋[へや]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "子供",
+        "vocabENG": "child",
+        "reading": "子供[こども]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "時間",
+        "vocabENG": "time",
+        "reading": "時間[じかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "雨",
+        "vocabENG": "rain",
+        "reading": "雨[あめ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "先生",
+        "vocabENG": "teacher, instructor, master",
+        "reading": "先生[せんせい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "年",
+        "vocabENG": "year",
+        "reading": "年[とし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "手紙",
+        "vocabENG": "letter, missive, note, mail",
+        "reading": "手紙[てがみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "電話",
+        "vocabENG": "telephone call, phone call",
+        "reading": "電話[でんわ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "水",
+        "vocabENG": "water (esp. cool, fresh water, e.g. drinking water)",
+        "reading": "水[みず]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "病気",
+        "vocabENG": "illness (usu. excluding minor ailments, e.g. common cold), disease, sickness",
+        "reading": "病気[びょうき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "上げる",
+        "vocabENG": "to raise, to elevate",
+        "reading": "上[あ]げる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "結婚",
+        "vocabENG": "marriage",
+        "reading": "結婚[けっこん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "言葉",
+        "vocabENG": "language, dialect",
+        "reading": "言葉[ことば]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "目",
+        "vocabENG": "eye, eyeball",
+        "reading": "目[め]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "走る",
+        "vocabENG": "to run",
+        "reading": "走[はし]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "名前",
+        "vocabENG": "name",
+        "reading": "名前[なまえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "旅行",
+        "vocabENG": "travel, trip, journey, excursion, tour",
+        "reading": "旅行[りょこう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "道",
+        "vocabENG": "road, path, street, lane, passage",
+        "reading": "道[みち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "飛行機",
+        "vocabENG": "aeroplane, airplane, aircraft",
+        "reading": "飛行機[ひこうき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "映画",
+        "vocabENG": "movie, film, motion picture",
+        "reading": "映画[えいが]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "音楽",
+        "vocabENG": "music",
+        "reading": "音楽[おんがく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "木",
+        "vocabENG": "tree, shrub, bush",
+        "reading": "木[き]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大学",
+        "vocabENG": "university, college",
+        "reading": "大学[だいがく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "時計",
+        "vocabENG": "clock, watch, timepiece",
+        "reading": "時計[とけい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "家族",
+        "vocabENG": "family",
+        "reading": "家族[かぞく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "花",
+        "vocabENG": "flower, blossom, bloom, petal",
+        "reading": "花[はな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "猫",
+        "vocabENG": "Bottom (gay)",
+        "reading": "ねこ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎日",
+        "vocabENG": "every day",
+        "reading": "毎日[まいにち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "宿題",
+        "vocabENG": "homework, assignment",
+        "reading": "宿題[しゅくだい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "雪",
+        "vocabENG": "snow, snowfall",
+        "reading": "雪[ゆき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "山",
+        "vocabENG": "mountain, hill",
+        "reading": "山[やま]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "窓",
+        "vocabENG": "window",
+        "reading": "窓[まど]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "動物",
+        "vocabENG": "animal",
+        "reading": "動物[どうぶつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夜",
+        "vocabENG": "evening, night",
+        "reading": "夜[よる]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "料理",
+        "vocabENG": "cooking, cookery, cuisine, meal, food, dish, item on a menu",
+        "reading": "料理[りょうり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夏",
+        "vocabENG": "summer",
+        "reading": "夏[なつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "新聞",
+        "vocabENG": "newspaper",
+        "reading": "新聞[しんぶん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "公園",
+        "vocabENG": "(public) park",
+        "reading": "公園[こうえん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "意味",
+        "vocabENG": "meaning, significance, sense",
+        "reading": "意味[いみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "自転車",
+        "vocabENG": "bicycle, bike",
+        "reading": "自転車[じてんしゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "足",
+        "vocabENG": "foot, paw, arm (of an octopus, squid, etc.)",
+        "reading": "足[あし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "電車",
+        "vocabENG": "train, electric train",
+        "reading": "電車[でんしゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "散歩",
+        "vocabENG": "walk, stroll",
+        "reading": "散歩[さんぽ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "声",
+        "vocabENG": "voice",
+        "reading": "声[こえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "朝",
+        "vocabENG": "morning",
+        "reading": "朝[あさ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "歌",
+        "vocabENG": "song, singing",
+        "reading": "歌[うた]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "靴",
+        "vocabENG": "shoe, shoes, boots, footwear, footgear",
+        "reading": "靴[くつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "箱",
+        "vocabENG": "box, case, chest, package, pack, crate",
+        "reading": "箱[はこ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "机",
+        "vocabENG": "desk",
+        "reading": "机[つくえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "帽子",
+        "vocabENG": "hat, cap",
+        "reading": "帽子[ぼうし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "海",
+        "vocabENG": "sea, ocean, waters",
+        "reading": "海[うみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "授業",
+        "vocabENG": "lesson, class work, teaching, instruction",
+        "reading": "授業[じゅぎょう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "銀行",
+        "vocabENG": "bank, banking institution",
+        "reading": "銀行[ぎんこう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "写真",
+        "vocabENG": "photograph, photo, picture, snapshot, snap",
+        "reading": "写真[しゃしん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "冬",
+        "vocabENG": "winter",
+        "reading": "冬[ふゆ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "村",
+        "vocabENG": "village",
+        "reading": "村[むら]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "傘",
+        "vocabENG": "umbrella, parasol",
+        "reading": "傘[かさ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "口",
+        "vocabENG": "mouth",
+        "reading": "口[くち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "橋",
+        "vocabENG": "bridge",
+        "reading": "橋[はし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "病院",
+        "vocabENG": "hospital, clinic, doctor's office, doctor's surgery, infirmary",
+        "reading": "病院[びょういん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "図書館",
+        "vocabENG": "library",
+        "reading": "図書館[としょかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "春",
+        "vocabENG": "spring, springtime",
+        "reading": "春[はる]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "買い物",
+        "vocabENG": "shopping, purchased goods",
+        "reading": "買[か]い 物[もの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "椅子",
+        "vocabENG": "chair, stool",
+        "reading": "椅子[いす]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "自動車",
+        "vocabENG": "car, automobile, motorcar, motor vehicle, auto",
+        "reading": "自動車[じどうしゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "色",
+        "vocabENG": "colour, color, hue, tint, tinge, shade",
+        "reading": "色[いろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "卵",
+        "vocabENG": "eggs, egg, spawn, roe",
+        "reading": "卵[たまご]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "肉",
+        "vocabENG": "flesh",
+        "reading": "肉[にく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "風邪",
+        "vocabENG": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)",
+        "reading": "風邪[かぜ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "掃除",
+        "vocabENG": "cleaning, sweeping, dusting, scrubbing",
+        "reading": "掃除[そうじ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "紙",
+        "vocabENG": "paper",
+        "reading": "紙[かみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "鍵",
+        "vocabENG": "key",
+        "reading": "鍵[かぎ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "雑誌",
+        "vocabENG": "journal, magazine, periodical",
+        "reading": "雑誌[ざっし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "切符",
+        "vocabENG": "ticket",
+        "reading": "切符[きっぷ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "外国人",
+        "vocabENG": "foreigner, foreign citizen, foreign national, alien, non-Japanese",
+        "reading": "外国人[がいこくじん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "財布",
+        "vocabENG": "purse, handbag, wallet",
+        "reading": "財布[さいふ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "鉛筆",
+        "vocabENG": "pencil",
+        "reading": "鉛筆[えんぴつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大人",
+        "vocabENG": "adult, grown-up",
+        "reading": "大人[おとな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "塩",
+        "vocabENG": "salt, common salt, table salt, sodium chloride",
+        "reading": "塩[しお]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "地図",
+        "vocabENG": "map",
+        "reading": "地図[ちず]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "砂糖",
+        "vocabENG": "sugar",
+        "reading": "砂糖[さとう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夏休み",
+        "vocabENG": "summer vacation, summer holiday",
+        "reading": "夏休[なつやす]み",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "池",
+        "vocabENG": "pond",
+        "reading": "池[いけ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "郵便局",
+        "vocabENG": "post office",
+        "reading": "郵便局[ゆうびんきょく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "教室",
+        "vocabENG": "classroom, lecture room",
+        "reading": "教室[きょうしつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "耳",
+        "vocabENG": "ear",
+        "reading": "耳[みみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "切手",
+        "vocabENG": "stamp (postage), merchandise certificate",
+        "reading": "切手[きって]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "台所",
+        "vocabENG": "kitchen",
+        "reading": "台所[だいどころ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "電気",
+        "vocabENG": "electricity",
+        "reading": "電気[でんき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "作文",
+        "vocabENG": "writing (an essay, prose, etc.), composition",
+        "reading": "作文[さくぶん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "紅茶",
+        "vocabENG": "black tea",
+        "reading": "紅茶[こうちゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "家庭",
+        "vocabENG": "home, household, family, hearth",
+        "reading": "家庭[かてい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "野菜",
+        "vocabENG": "vegetable",
+        "reading": "野菜[やさい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "風呂",
+        "vocabENG": "bath, bathing, bathtub, bathroom",
+        "reading": "風呂[ふろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "玄関",
+        "vocabENG": "entrance, front door, entryway, entranceway, entry hall, vestibule, porch, foyer, mud room",
+        "reading": "玄関[げんかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "地下鉄",
+        "vocabENG": "underground train, subway",
+        "reading": "地下鉄[ちかてつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "鼻",
+        "vocabENG": "nose",
+        "reading": "鼻[はな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "緑",
+        "vocabENG": "green",
+        "reading": "緑[みどり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "昼",
+        "vocabENG": "noon, midday",
+        "reading": "昼[ひる]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "西",
+        "vocabENG": "west",
+        "reading": "西[にし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "白",
+        "vocabENG": "white",
+        "reading": "白[しろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "洗濯",
+        "vocabENG": "washing, laundry",
+        "reading": "洗濯[せんたく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "冷蔵庫",
+        "vocabENG": "refrigerator, fridge",
+        "reading": "冷蔵庫[れいぞうこ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "南",
+        "vocabENG": "south",
+        "reading": "南[みなみ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "火曜日",
+        "vocabENG": "Tuesday",
+        "reading": "火曜日[かようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "北",
+        "vocabENG": "north",
+        "reading": "北[きた]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "茶色",
+        "vocabENG": "brown, light brown, tawny",
+        "reading": "茶色[ちゃいろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "黒",
+        "vocabENG": "black",
+        "reading": "黒[くろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "喫茶店",
+        "vocabENG": "coffee shop, tearoom, coffee lounge, coffeehouse, cafe",
+        "reading": "喫茶店[きっさてん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "青",
+        "vocabENG": "blue, azure",
+        "reading": "青[あお]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "靴下",
+        "vocabENG": "socks, sock, stockings, stocking",
+        "reading": "靴下[くつした]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "封筒",
+        "vocabENG": "envelope",
+        "reading": "封筒[ふうとう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "辺",
+        "vocabENG": "area, vicinity, region",
+        "reading": "辺[へん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "黄色",
+        "vocabENG": "yellow, amber",
+        "reading": "黄色[きいろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "映画館",
+        "vocabENG": "movie theatre, movie theater, cinema",
+        "reading": "映画館[えいがかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "箸",
+        "vocabENG": "chopsticks",
+        "reading": "箸[はし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "食堂",
+        "vocabENG": "dining room, dining hall, cafeteria, canteen, messroom",
+        "reading": "食堂[しょくどう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "牛肉",
+        "vocabENG": "beef",
+        "reading": "牛肉[ぎゅうにく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "交差点",
+        "vocabENG": "crossing, intersection",
+        "reading": "交差点[こうさてん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "漢字",
+        "vocabENG": "kanji, Chinese character",
+        "reading": "漢字[かんじ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "茶わん",
+        "vocabENG": "rice bowl, tea cup, teacup",
+        "reading": "茶[ちゃ]わん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "曇り",
+        "vocabENG": "cloudiness, cloudy weather",
+        "reading": "曇[くも]り",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "背広",
+        "vocabENG": "business suit",
+        "reading": "背広[せびろ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "万年筆",
+        "vocabENG": "fountain pen",
+        "reading": "万年筆[まんねんひつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "灰皿",
+        "vocabENG": "ashtray",
+        "reading": "灰皿[はいざら]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大使館",
+        "vocabENG": "embassy",
+        "reading": "大使館[たいしかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "交番",
+        "vocabENG": "police box, koban, small neighborhood police station",
+        "reading": "交番[こうばん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "豚肉",
+        "vocabENG": "pork",
+        "reading": "豚肉[ぶたにく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "飲む",
+        "vocabENG": "to drink, to gulp, to swallow, to take (medicine)",
+        "reading": "飲[の]む",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "頭",
+        "vocabENG": "head",
+        "reading": "頭[あたま]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "日曜日",
+        "vocabENG": "Sunday",
+        "reading": "日曜日[にちようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "誕生日",
+        "vocabENG": "birthday",
+        "reading": "誕生日[たんじょうび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "土曜日",
+        "vocabENG": "Saturday",
+        "reading": "土曜日[どようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "月曜日",
+        "vocabENG": "Monday",
+        "reading": "月曜日[げつようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "金曜日",
+        "vocabENG": "Friday",
+        "reading": "金曜日[きんようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "花瓶",
+        "vocabENG": "(flower) vase",
+        "reading": "花瓶[かびん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "本棚",
+        "vocabENG": "bookshelves, bookshelf, bookcase",
+        "reading": "本棚[ほんだな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "木曜日",
+        "vocabENG": "Thursday",
+        "reading": "木曜日[もくようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "石鹸",
+        "vocabENG": "soap",
+        "reading": "石鹸[せっけん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "水曜日",
+        "vocabENG": "Wednesday",
+        "reading": "水曜日[すいようび]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "飴",
+        "vocabENG": "(hard) candy, toffee",
+        "reading": "飴[あめ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "八百屋",
+        "vocabENG": "greengrocer, fruit and vegetable shop",
+        "reading": "八百屋[やおや]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "より",
+        "vocabENG": "than",
+        "reading": "より",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一番",
+        "vocabENG": "number one, first, first place",
+        "reading": "一番[いちばん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "私",
+        "vocabENG": "I, me",
+        "reading": "私[わたし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "外",
+        "vocabENG": "outside, exterior",
+        "reading": "外[そと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "姉",
+        "vocabENG": "older sister, elder sister",
+        "reading": "姉[あね]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "百",
+        "vocabENG": "hundred, 100",
+        "reading": "百[ひゃく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "言う",
+        "vocabENG": "to say, to utter, to declare",
+        "reading": "言[い]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "良い",
+        "vocabENG": "good, excellent, fine, nice, pleasant, agreeable",
+        "reading": "良[よ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "見る",
+        "vocabENG": "to see, to look, to watch, to view, to observe",
+        "reading": "見[み]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "自分",
+        "vocabENG": "myself, yourself, oneself, himself, herself",
+        "reading": "自分[じぶん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "知る",
+        "vocabENG": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover",
+        "reading": "知[し]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "持つ",
+        "vocabENG": "to hold (in one's hand), to take, to carry",
+        "reading": "持[も]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "何",
+        "vocabENG": "what",
+        "reading": "何[なに]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "車",
+        "vocabENG": "car, automobile, vehicle",
+        "reading": "車[くるま]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "話す",
+        "vocabENG": "to talk, to speak, to converse, to chat",
+        "reading": "話[はな]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今",
+        "vocabENG": "now, the present time, just now, soon, immediately",
+        "reading": "今[いま]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今日",
+        "vocabENG": "today, this day",
+        "reading": "今日[きょう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "買う",
+        "vocabENG": "to buy, to purchase",
+        "reading": "買[か]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "読む",
+        "vocabENG": "to read",
+        "reading": "読[よ]む",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "新しい",
+        "vocabENG": "new, novel, fresh, recent, latest, up-to-date, modern",
+        "reading": "新[あたら]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "話",
+        "vocabENG": "talk, speech, chat, conversation",
+        "reading": "話[はなし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "明日",
+        "vocabENG": "tomorrow",
+        "reading": "明日[あした]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "昨日",
+        "vocabENG": "yesterday",
+        "reading": "昨日[きのう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "出る",
+        "vocabENG": "to leave, to exit, to go out, to come out, to get out",
+        "reading": "出[で]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "勉強",
+        "vocabENG": "study",
+        "reading": "勉強[べんきょう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "取る",
+        "vocabENG": "to take, to pick up, to grab, to catch",
+        "reading": "取[と]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "誰",
+        "vocabENG": "who",
+        "reading": "誰[だれ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お金",
+        "vocabENG": "money",
+        "reading": "お 金[かね]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "男",
+        "vocabENG": "man, male",
+        "reading": "男[おとこ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "犬",
+        "vocabENG": "dog (Canis (lupus) familiaris)",
+        "reading": "犬[いぬ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "使う",
+        "vocabENG": "to use (a tool, method, etc.), to make use of, to put to use",
+        "reading": "使[つか]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大変",
+        "vocabENG": "very, greatly, terribly, awfully",
+        "reading": "大変[たいへん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "待つ",
+        "vocabENG": "to wait",
+        "reading": "待[ま]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "作る",
+        "vocabENG": "to make, to produce, to manufacture, to build, to construct",
+        "reading": "作[つく]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "後ろ",
+        "vocabENG": "back, behind, rear",
+        "reading": "後[うし]ろ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "町",
+        "vocabENG": "town, block, neighbourhood, neighborhood",
+        "reading": "町[まち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "駅",
+        "vocabENG": "railway station, train station",
+        "reading": "駅[えき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "少し",
+        "vocabENG": "small quantity, little, few, something",
+        "reading": "少[すこ]し",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "欲しい",
+        "vocabENG": "wanting (to have), desiring, wishing for",
+        "reading": "欲[ほ]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "行く",
+        "vocabENG": "to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach",
+        "reading": "行[い]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "乗る",
+        "vocabENG": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark",
+        "reading": "乗[の]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大きな",
+        "vocabENG": "big, large, great",
+        "reading": "大[おお]きな",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "医者",
+        "vocabENG": "(medical) doctor, physician",
+        "reading": "医者[いしゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "終わる",
+        "vocabENG": "to end, to come to an end, to close, to finish",
+        "reading": "終[お]わる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "学生",
+        "vocabENG": "student (esp. a university student)",
+        "reading": "学生[がくせい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "長い",
+        "vocabENG": "long (distance, length)",
+        "reading": "長[なが]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "国",
+        "vocabENG": "country, state",
+        "reading": "国[くに]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "高い",
+        "vocabENG": "high, tall",
+        "reading": "高[たか]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "難しい",
+        "vocabENG": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.)",
+        "reading": "難[むずか]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "友達",
+        "vocabENG": "friend, companion",
+        "reading": "友達[ともだち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "本当",
+        "vocabENG": "truth, reality, actuality, fact",
+        "reading": "本当[ほんとう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一つ",
+        "vocabENG": "one",
+        "reading": "一[ひと]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "寝る",
+        "vocabENG": "to sleep (lying down)",
+        "reading": "寝[ね]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "生徒",
+        "vocabENG": "pupil, student, schoolchild",
+        "reading": "生徒[せいと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "忙しい",
+        "vocabENG": "busy, occupied, hectic",
+        "reading": "忙[いそが]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "両親",
+        "vocabENG": "parents, both parents",
+        "reading": "両親[りょうしん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "泳ぐ",
+        "vocabENG": "to swim",
+        "reading": "泳[およ]ぐ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "出す",
+        "vocabENG": "to take out, to get out",
+        "reading": "出[だ]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "立つ",
+        "vocabENG": "to stand, to rise, to stand up",
+        "reading": "立[た]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "早い",
+        "vocabENG": "fast, quick, rapid, swift, speedy, brisk, prompt",
+        "reading": "早[はや]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "楽しい",
+        "vocabENG": "enjoyable, fun, pleasant, happy, delightful",
+        "reading": "楽[たの]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "面白い",
+        "vocabENG": "interesting, fascinating, intriguing, enthralling",
+        "reading": "面白[おもしろ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "絵",
+        "vocabENG": "picture, drawing, painting, sketch",
+        "reading": "絵[え]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "女の子",
+        "vocabENG": "girl, daughter, baby girl",
+        "reading": "女[おんな]の 子[こ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "着る",
+        "vocabENG": "to wear (from the shoulders down), to put on",
+        "reading": "着[き]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "上手",
+        "vocabENG": "skillful, skilled, proficient, good (at), adept, clever",
+        "reading": "上手[じょうず]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "古い",
+        "vocabENG": "old, aged, ancient, antiquated, antique, timeworn",
+        "reading": "古[ふる]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "強い",
+        "vocabENG": "strong, potent, competent, domineering, tough",
+        "reading": "強[つよ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "全部",
+        "vocabENG": "all, entire, whole, altogether",
+        "reading": "全部[ぜんぶ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "呼ぶ",
+        "vocabENG": "to call out (to), to call, to invoke",
+        "reading": "呼[よ]ぶ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "午後",
+        "vocabENG": "afternoon, p.m.",
+        "reading": "午後[ごご]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "辞書",
+        "vocabENG": "dictionary, lexicon",
+        "reading": "辞書[じしょ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "天気",
+        "vocabENG": "weather, the elements",
+        "reading": "天気[てんき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "体",
+        "vocabENG": "body",
+        "reading": "体[からだ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大きい",
+        "vocabENG": "big, large, great",
+        "reading": "大[おお]きい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "質問",
+        "vocabENG": "question, inquiry, enquiry",
+        "reading": "質問[しつもん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夕べ",
+        "vocabENG": "evening",
+        "reading": "夕[ゆう]べ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "有名",
+        "vocabENG": "famous",
+        "reading": "有名[ゆうめい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "兄",
+        "vocabENG": "older brother, elder brother",
+        "reading": "兄[あに]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "歌う",
+        "vocabENG": "to sing",
+        "reading": "歌[うた]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "上る",
+        "vocabENG": "to ascend, to go up, to climb",
+        "reading": "上[のぼ]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "鳥",
+        "vocabENG": "bird",
+        "reading": "鳥[とり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "服",
+        "vocabENG": "clothes (esp. Western clothes)",
+        "reading": "服[ふく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "時々",
+        "vocabENG": "sometimes, occasionally, at times, from time to time, now and then, once in a while, at intervals",
+        "reading": "時々[ときどき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "妹",
+        "vocabENG": "younger sister",
+        "reading": "妹[いもうと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二つ",
+        "vocabENG": "two",
+        "reading": "二[ふた]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "頼む",
+        "vocabENG": "to request, to beg, to ask",
+        "reading": "頼[たの]む",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今朝",
+        "vocabENG": "this morning",
+        "reading": "今朝[けさ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お父さん",
+        "vocabENG": "father, dad, papa, pa, pop, daddy, dada",
+        "reading": "お 父[とう]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "遅い",
+        "vocabENG": "slow, time-consuming, sluggish",
+        "reading": "遅[おそ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "薬",
+        "vocabENG": "medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve",
+        "reading": "薬[くすり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "借りる",
+        "vocabENG": "to borrow, to have a loan",
+        "reading": "借[か]りる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "庭",
+        "vocabENG": "garden, yard, courtyard",
+        "reading": "庭[にわ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "外国",
+        "vocabENG": "foreign country",
+        "reading": "外国[がいこく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "小さい",
+        "vocabENG": "small, little, tiny",
+        "reading": "小[ちい]さい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "元気",
+        "vocabENG": "lively, full of spirit, energetic, vigorous, vital, spirited",
+        "reading": "元気[げんき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "弟",
+        "vocabENG": "younger brother, little brother, kid brother",
+        "reading": "弟[おとうと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "魚",
+        "vocabENG": "fish",
+        "reading": "魚[さかな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今年",
+        "vocabENG": "this year",
+        "reading": "今年[ことし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お母さん",
+        "vocabENG": "mother, mom, mum, ma",
+        "reading": "お 母[かあ]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "男の子",
+        "vocabENG": "boy, son, baby boy",
+        "reading": "男[おとこ]の 子[こ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "飛ぶ",
+        "vocabENG": "to fly, to soar",
+        "reading": "飛[と]ぶ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "売る",
+        "vocabENG": "to sell",
+        "reading": "売[う]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "静か",
+        "vocabENG": "quiet, silent",
+        "reading": "静[しず]か",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "休む",
+        "vocabENG": "to be absent, to take a day off",
+        "reading": "休[やす]む",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "食べ物",
+        "vocabENG": "food",
+        "reading": "食[た]べ 物[もの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大切",
+        "vocabENG": "important, significant, serious, crucial",
+        "reading": "大切[たいせつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "来週",
+        "vocabENG": "next week",
+        "reading": "来週[らいしゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "警官",
+        "vocabENG": "police officer, policeman, constable",
+        "reading": "警官[けいかん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "建物",
+        "vocabENG": "building",
+        "reading": "建物[たてもの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "暖かい",
+        "vocabENG": "warm, mild, (pleasantly) hot",
+        "reading": "暖[あたた]かい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "降りる",
+        "vocabENG": "to descend (e.g. a mountain), to go down, to come down",
+        "reading": "降[お]りる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "止まる",
+        "vocabENG": "to stop (moving), to come to a stop",
+        "reading": "止[と]まる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一緒",
+        "vocabENG": "together",
+        "reading": "一緒[いっしょ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "先週",
+        "vocabENG": "last week, the week before",
+        "reading": "先週[せんしゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "白い",
+        "vocabENG": "white",
+        "reading": "白[しろ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二",
+        "vocabENG": "two, 2",
+        "reading": "二[に]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "少ない",
+        "vocabENG": "few, a little, scarce, insufficient, seldom",
+        "reading": "少[すく]ない",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "赤い",
+        "vocabENG": "red, crimson, scarlet, vermilion, vermillion",
+        "reading": "赤[あか]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "洗う",
+        "vocabENG": "to wash, to cleanse, to rinse",
+        "reading": "洗[あら]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "嫌い",
+        "vocabENG": "disliked, hated, disagreeable",
+        "reading": "嫌[きら]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "立派",
+        "vocabENG": "splendid, fine, handsome, elegant, imposing, prominent, impressive",
+        "reading": "立派[りっぱ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "暇",
+        "vocabENG": "spare time, free time, leisure",
+        "reading": "暇[ひま]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お茶",
+        "vocabENG": "tea (usu. green)",
+        "reading": "お 茶[ちゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "広い",
+        "vocabENG": "spacious, vast, wide",
+        "reading": "広[ひろ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "去年",
+        "vocabENG": "last year",
+        "reading": "去年[きょねん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大好き",
+        "vocabENG": "liking very much, loving (something or someone), adoring, being very fond of",
+        "reading": "大好[だいす]き",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "隣",
+        "vocabENG": "next (to), adjoining, adjacent",
+        "reading": "隣[となり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "女",
+        "vocabENG": "female, woman, female sex",
+        "reading": "女[おんな]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "切る",
+        "vocabENG": "to cut, to cut through, to perform (surgery)",
+        "reading": "切[き]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "多分",
+        "vocabENG": "perhaps, probably",
+        "reading": "多分[たぶん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "嫌",
+        "vocabENG": "disagreeable, detestable, unpleasant, reluctant",
+        "reading": "嫌[いや]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎朝",
+        "vocabENG": "every morning",
+        "reading": "毎朝[まいあさ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "荷物",
+        "vocabENG": "luggage, baggage, package",
+        "reading": "荷物[にもつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "番号",
+        "vocabENG": "number, series of digits",
+        "reading": "番号[ばんごう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "返す",
+        "vocabENG": "to return (something), to restore, to put back",
+        "reading": "返[かえ]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "来年",
+        "vocabENG": "next year",
+        "reading": "来年[らいねん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "明るい",
+        "vocabENG": "light, well-lit, well-lighted",
+        "reading": "明[あか]るい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "近い",
+        "vocabENG": "near, close, short (distance)",
+        "reading": "近[ちか]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "向こう",
+        "vocabENG": "opposite side, other side, opposite direction",
+        "reading": "向[む]こう",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "始め",
+        "vocabENG": "beginning, start, outset, opening",
+        "reading": "始[はじ]め",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "痛い",
+        "vocabENG": "painful, sore",
+        "reading": "痛[いた]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "休み",
+        "vocabENG": "rest, recess, respite",
+        "reading": "休[やす]み",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "十",
+        "vocabENG": "ten, 10",
+        "reading": "十[じゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "練習",
+        "vocabENG": "practice, training, drill, (an) exercise, workout",
+        "reading": "練習[れんしゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "上着",
+        "vocabENG": "coat, tunic, jacket, outer garment",
+        "reading": "上着[うわぎ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "先月",
+        "vocabENG": "last month",
+        "reading": "先月[せんげつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "結構",
+        "vocabENG": "splendid, nice, wonderful, delicious, sweet",
+        "reading": "結構[けっこう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎年",
+        "vocabENG": "every year, yearly, annually",
+        "reading": "毎年[まいとし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "兄弟",
+        "vocabENG": "siblings, brothers and sisters",
+        "reading": "兄弟[きょうだい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "来月",
+        "vocabENG": "next month",
+        "reading": "来月[らいげつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "五",
+        "vocabENG": "five, 5",
+        "reading": "五[ご]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "飲み物",
+        "vocabENG": "drink, beverage",
+        "reading": "飲[の]み 物[もの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "弱い",
+        "vocabENG": "weak, frail, delicate, tender, unskilled, weak (wine)",
+        "reading": "弱[よわ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "牛乳",
+        "vocabENG": "(cow's) milk",
+        "reading": "牛乳[ぎゅうにゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "三",
+        "vocabENG": "three, 3",
+        "reading": "三[さん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大丈夫",
+        "vocabENG": "safe, secure, sound, problem-free, without fear, all right, alright, OK, okay",
+        "reading": "大丈夫[だいじょうぶ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "黒い",
+        "vocabENG": "black",
+        "reading": "黒[くろ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "皆さん",
+        "vocabENG": "all, everyone, everybody",
+        "reading": "皆[みな]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "半分",
+        "vocabENG": "half",
+        "reading": "半分[はんぶん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "押す",
+        "vocabENG": "to push, to press",
+        "reading": "押[お]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "勤める",
+        "vocabENG": "to work (for), to be employed (at), to serve (in)",
+        "reading": "勤[つと]める",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "熱い",
+        "vocabENG": "hot (to the touch)",
+        "reading": "熱[あつ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "三つ",
+        "vocabENG": "three",
+        "reading": "三[みっ]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "果物",
+        "vocabENG": "fruit",
+        "reading": "果物[くだもの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今週",
+        "vocabENG": "this week",
+        "reading": "今週[こんしゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "右",
+        "vocabENG": "right, right-hand side",
+        "reading": "右[みぎ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "甘い",
+        "vocabENG": "sweet-tasting, sweet, sugary, sugared",
+        "reading": "甘[あま]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "晩",
+        "vocabENG": "evening, night",
+        "reading": "晩[ばん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "大勢",
+        "vocabENG": "crowd of people, great number of people",
+        "reading": "大勢[おおぜい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "階段",
+        "vocabENG": "stairs, stairway, staircase",
+        "reading": "階段[かいだん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "張る",
+        "vocabENG": "to stick, to paste, to affix",
+        "reading": "張[は]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夕方",
+        "vocabENG": "evening, dusk",
+        "reading": "夕方[ゆうがた]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "低い",
+        "vocabENG": "low (rank, degree, value, content, quality, etc.)",
+        "reading": "低[ひく]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "左",
+        "vocabENG": "left, left hand side",
+        "reading": "左[ひだり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎週",
+        "vocabENG": "every week",
+        "reading": "毎週[まいしゅう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "下手",
+        "vocabENG": "unskillful, poor, awkward",
+        "reading": "下手[へた]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "千",
+        "vocabENG": "1,000, thousand",
+        "reading": "千[せん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "渡す",
+        "vocabENG": "to ferry across (e.g. a river), to carry across, to traverse",
+        "reading": "渡[わた]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "午前",
+        "vocabENG": "morning, a.m.",
+        "reading": "午前[ごぜん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "丸い",
+        "vocabENG": "round, circular, spherical",
+        "reading": "丸[まる]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "便利",
+        "vocabENG": "convenient, handy, useful",
+        "reading": "便利[べんり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今月",
+        "vocabENG": "this month",
+        "reading": "今月[こんげつ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "浴びる",
+        "vocabENG": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in",
+        "reading": "浴[あ]びる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "半",
+        "vocabENG": "half, semi-",
+        "reading": "半[はん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "洋服",
+        "vocabENG": "Western-style clothes (cf. traditional Japanese clothes)",
+        "reading": "洋服[ようふく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "撮る",
+        "vocabENG": "to take (a photo)",
+        "reading": "撮[と]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "締める",
+        "vocabENG": "to tie, to fasten, to tighten",
+        "reading": "締[し]める",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "文章",
+        "vocabENG": "writing, composition, essay, article, passage, prose, (writing) style",
+        "reading": "文章[ぶんしょう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "薄い",
+        "vocabENG": "thin",
+        "reading": "薄[うす]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "八",
+        "vocabENG": "eight, 8",
+        "reading": "八[はち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "横",
+        "vocabENG": "horizontal (as opposed to vertical), lying down",
+        "reading": "横[よこ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "六",
+        "vocabENG": "six, 6",
+        "reading": "六[ろく]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "四つ",
+        "vocabENG": "four, 4",
+        "reading": "四[よっ]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "丈夫",
+        "vocabENG": "healthy, robust, strong, solid, durable",
+        "reading": "丈夫[じょうぶ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎晩",
+        "vocabENG": "every night",
+        "reading": "毎晩[まいばん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "東",
+        "vocabENG": "east",
+        "reading": "東[ひがし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "五つ",
+        "vocabENG": "five",
+        "reading": "五[い]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "晴れ",
+        "vocabENG": "clear weather, fine weather",
+        "reading": "晴[は]れ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "細い",
+        "vocabENG": "thin, slender, fine",
+        "reading": "細[ほそ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "廊下",
+        "vocabENG": "corridor, hallway, passageway",
+        "reading": "廊下[ろうか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "太い",
+        "vocabENG": "fat, thick",
+        "reading": "太[ふと]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "縦",
+        "vocabENG": "the vertical, height",
+        "reading": "縦[たて]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "七つ",
+        "vocabENG": "seven",
+        "reading": "七[なな]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "九つ",
+        "vocabENG": "nine",
+        "reading": "九[ここの]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "留学生",
+        "vocabENG": "overseas student, exchange student",
+        "reading": "留学生[りゅうがくせい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一昨年",
+        "vocabENG": "year before last",
+        "reading": "一昨年[おととし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "人",
+        "vocabENG": "person, someone, somebody",
+        "reading": "人[ひと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "物",
+        "vocabENG": "thing, object, article, stuff, substance",
+        "reading": "物[もの]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "家",
+        "vocabENG": "house, residence, dwelling",
+        "reading": "家[いえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "本",
+        "vocabENG": "book, volume, script",
+        "reading": "本[ほん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "会う",
+        "vocabENG": "to meet, to encounter, to see",
+        "reading": "会[あ]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "好き",
+        "vocabENG": "liking, being fond of, to one's liking, to one's taste, preferred, favourite",
+        "reading": "好[す]き",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "聞く",
+        "vocabENG": "to hear",
+        "reading": "聞[き]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "所",
+        "vocabENG": "place, spot, scene, site",
+        "reading": "所[ところ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "先",
+        "vocabENG": "point, tip, end, nozzle",
+        "reading": "先[さき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "書く",
+        "vocabENG": "to write, to compose, to pen",
+        "reading": "書[か]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "入る",
+        "vocabENG": "to enter, to go into",
+        "reading": "入[はい]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "置く",
+        "vocabENG": "to put, to place",
+        "reading": "置[お]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "住む",
+        "vocabENG": "to live (of humans), to reside, to inhabit, to dwell, to abide",
+        "reading": "住[す]む",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "食べる",
+        "vocabENG": "to eat",
+        "reading": "食[た]べる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "歩く",
+        "vocabENG": "to walk",
+        "reading": "歩[ある]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "働く",
+        "vocabENG": "to work, to labor, to labour",
+        "reading": "働[はたら]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "着く",
+        "vocabENG": "to arrive at, to reach",
+        "reading": "着[つ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "上",
+        "vocabENG": "above, up, over, elder (e.g. daughter)",
+        "reading": "上[うえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "悪い",
+        "vocabENG": "bad, poor, undesirable",
+        "reading": "悪[わる]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "教える",
+        "vocabENG": "to teach, to instruct",
+        "reading": "教[おし]える",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "降る",
+        "vocabENG": "to fall (of rain, snow, ash, etc.), to come down",
+        "reading": "降[ふ]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "死ぬ",
+        "vocabENG": "to die, to pass away",
+        "reading": "死[し]ぬ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "帰る",
+        "vocabENG": "to return, to come home, to go home, to go back",
+        "reading": "帰[かえ]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "忘れる",
+        "vocabENG": "to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)",
+        "reading": "忘[わす]れる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "多い",
+        "vocabENG": "many, numerous, a lot",
+        "reading": "多[おお]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "出掛ける",
+        "vocabENG": "to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out",
+        "reading": "出掛[でか]ける",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "若い",
+        "vocabENG": "young, youthful",
+        "reading": "若[わか]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "同じ",
+        "vocabENG": "same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike",
+        "reading": "同[おな]じ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "起きる",
+        "vocabENG": "to get up, to rise, to blaze up (fire)",
+        "reading": "起[お]きる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "座る",
+        "vocabENG": "to sit, to squat",
+        "reading": "座[すわ]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "店",
+        "vocabENG": "store, shop, establishment, restaurant",
+        "reading": "店[みせ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "入れる",
+        "vocabENG": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo)",
+        "reading": "入[い]れる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "疲れる",
+        "vocabENG": "to get tired, to tire, to get fatigued, to become exhausted, to grow weary",
+        "reading": "疲[つか]れる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "開ける",
+        "vocabENG": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock",
+        "reading": "開[あ]ける",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一日",
+        "vocabENG": "one day",
+        "reading": "一日[いちにち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "寒い",
+        "vocabENG": "cold (e.g. weather)",
+        "reading": "寒[さむ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "見せる",
+        "vocabENG": "to show, to display",
+        "reading": "見[み]せる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "違う",
+        "vocabENG": "to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with)",
+        "reading": "違[ちが]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "覚える",
+        "vocabENG": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember",
+        "reading": "覚[おぼ]える",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "近く",
+        "vocabENG": "near, neighbourhood, neighborhood, vicinity",
+        "reading": "近[ちか]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "風",
+        "vocabENG": "wind, breeze, draught, draft",
+        "reading": "風[かぜ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "困る",
+        "vocabENG": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed",
+        "reading": "困[こま]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "生まれる",
+        "vocabENG": "to be born",
+        "reading": "生[う]まれる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "初めて",
+        "vocabENG": "for the first time",
+        "reading": "初[はじ]めて",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "始まる",
+        "vocabENG": "to begin, to start, to commence",
+        "reading": "始[はじ]まる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "貸す",
+        "vocabENG": "to lend, to loan",
+        "reading": "貸[か]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "空",
+        "vocabENG": "sky, the air, the heavens",
+        "reading": "空[そら]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "弾く",
+        "vocabENG": "to play (a stringed or keyboard instrument)",
+        "reading": "弾[ひ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "暑い",
+        "vocabENG": "hot, warm, sultry, heated",
+        "reading": "暑[あつ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "遊ぶ",
+        "vocabENG": "to play (games, sports), to enjoy oneself, to have a good time",
+        "reading": "遊[あそ]ぶ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "渡る",
+        "vocabENG": "to cross over, to go across",
+        "reading": "渡[わた]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "暗い",
+        "vocabENG": "dark, gloomy, murky",
+        "reading": "暗[くら]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "重い",
+        "vocabENG": "heavy, weighty",
+        "reading": "重[おも]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "今晩",
+        "vocabENG": "tonight, this evening",
+        "reading": "今晩[こんばん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "消す",
+        "vocabENG": "to erase, to delete, to cross out",
+        "reading": "消[け]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "閉める",
+        "vocabENG": "to close, to shut",
+        "reading": "閉[し]める",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "安い",
+        "vocabENG": "cheap, inexpensive",
+        "reading": "安[やす]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "遠い",
+        "vocabENG": "far, distant, far away, a long way off, in the distance",
+        "reading": "遠[とお]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "短い",
+        "vocabENG": "short",
+        "reading": "短[みじか]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "晴れる",
+        "vocabENG": "to clear up, to clear away, to be sunny, to stop raining",
+        "reading": "晴[は]れる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "曲がる",
+        "vocabENG": "to bend, to curve, to warp, to wind, to twist",
+        "reading": "曲[ま]がる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "消える",
+        "vocabENG": "to disappear, to vanish, to go out of sight, to go away, to become lost",
+        "reading": "消[き]える",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "冷たい",
+        "vocabENG": "cold (to the touch), chilly, icy, freezing",
+        "reading": "冷[つめ]たい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "青い",
+        "vocabENG": "blue, azure",
+        "reading": "青[あお]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "吹く",
+        "vocabENG": "to blow (of the wind)",
+        "reading": "吹[ふ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "奥さん",
+        "vocabENG": "wife, your wife, his wife, married lady, madam",
+        "reading": "奥[おく]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "引く",
+        "vocabENG": "to pull, to tug, to lead (e.g. a horse)",
+        "reading": "引[ひ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "習う",
+        "vocabENG": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in",
+        "reading": "習[なら]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "狭い",
+        "vocabENG": "narrow, confined, small, cramped",
+        "reading": "狭[せま]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "軽い",
+        "vocabENG": "light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily)",
+        "reading": "軽[かる]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "脱ぐ",
+        "vocabENG": "to take off (clothes, shoes, etc.), to undress",
+        "reading": "脱[ぬ]ぐ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "万",
+        "vocabENG": "10,000, ten thousand",
+        "reading": "万[まん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "並ぶ",
+        "vocabENG": "to line up, to stand in a line",
+        "reading": "並[なら]ぶ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "吸う",
+        "vocabENG": "to smoke, to breathe in, to inhale",
+        "reading": "吸[す]う",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "閉まる",
+        "vocabENG": "to be shut, to close, to be closed",
+        "reading": "閉[し]まる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "咲く",
+        "vocabENG": "to bloom, to flower, to blossom, to open",
+        "reading": "咲[さ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一",
+        "vocabENG": "one, 1",
+        "reading": "一[いち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "涼しい",
+        "vocabENG": "cool, refreshing",
+        "reading": "涼[すず]しい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "厚い",
+        "vocabENG": "thick, deep, heavy",
+        "reading": "厚[あつ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お兄さん",
+        "vocabENG": "older brother, elder brother",
+        "reading": "お 兄[にい]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お姉さん",
+        "vocabENG": "older sister, elder sister",
+        "reading": "お 姉[ねえ]さん",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "危ない",
+        "vocabENG": "dangerous, risky, hazardous, perilous, precarious",
+        "reading": "危[あぶ]ない",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "並べる",
+        "vocabENG": "to line up, to set up, to arrange in a line",
+        "reading": "並[なら]べる",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "汚い",
+        "vocabENG": "dirty, filthy, foul, unclean",
+        "reading": "汚[きたな]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お腹",
+        "vocabENG": "belly, abdomen, stomach",
+        "reading": "お 腹[なか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "曇る",
+        "vocabENG": "to get cloudy, to cloud over, to become overcast",
+        "reading": "曇[くも]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ご飯",
+        "vocabENG": "cooked rice",
+        "reading": "ご 飯[はん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "黄色い",
+        "vocabENG": "yellow",
+        "reading": "黄色[きいろ]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お菓子",
+        "vocabENG": "confections, sweets, candy, cake",
+        "reading": "お 菓子[かし]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "磨く",
+        "vocabENG": "to polish, to shine, to burnish, to scour, to scrub, to brush (teeth), to grind (e.g. a lens)",
+        "reading": "磨[みが]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "賑やか",
+        "vocabENG": "bustling, busy, crowded, lively, prosperous, thriving",
+        "reading": "賑[にぎ]やか",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "鳴く",
+        "vocabENG": "to make sound (of an animal), to call, to cry, to whine, to sing, to chirp",
+        "reading": "鳴[な]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "夕飯",
+        "vocabENG": "evening meal, dinner, supper",
+        "reading": "夕飯[ゆうはん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "朝ご飯",
+        "vocabENG": "breakfast",
+        "reading": "朝[あさ]ご 飯[はん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "六つ",
+        "vocabENG": "six",
+        "reading": "六[むっ]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お手洗い",
+        "vocabENG": "toilet, restroom, lavatory, bathroom",
+        "reading": "お 手洗[てあら]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "差す",
+        "vocabENG": "to shine",
+        "reading": "差[さ]す",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "零",
+        "vocabENG": "zero, nought",
+        "reading": "零[れい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二十日",
+        "vocabENG": "20th day of the month",
+        "reading": "二十日[はつか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "八つ",
+        "vocabENG": "eight",
+        "reading": "八[やっ]つ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "再来年",
+        "vocabENG": "year after next",
+        "reading": "再来年[さらいねん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "小さな",
+        "vocabENG": "small, little, tiny",
+        "reading": "小[ちい]さな",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "答える",
+        "vocabENG": "to answer, to reply",
+        "reading": "答[こた]える",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "もう一度",
+        "vocabENG": "once more, again",
+        "reading": "もう 一度[いちど]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "背",
+        "vocabENG": "back",
+        "reading": "背[せ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お弁当",
+        "vocabENG": "bento, Japanese box lunch",
+        "reading": "お 弁当[べんとう]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "晩御飯",
+        "vocabENG": "dinner, evening meal",
+        "reading": "晩御飯[ばんごはん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "昼ご飯",
+        "vocabENG": "lunch, midday meal",
+        "reading": "昼[ひる]ご 飯[はん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "でも",
+        "vocabENG": "but, however, though, nevertheless, still, yet, even so, also, as well",
+        "reading": "でも",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "クラス",
+        "vocabENG": "class",
+        "reading": "クラス",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "プール",
+        "vocabENG": "(swimming) pool",
+        "reading": "プール",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "中",
+        "vocabENG": "inside, interior",
+        "reading": "中[なか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "テレビ",
+        "vocabENG": "television, TV",
+        "reading": "テレビ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ホテル",
+        "vocabENG": "hotel",
+        "reading": "ホテル",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ニュース",
+        "vocabENG": "news",
+        "reading": "ニュース",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "テーブル",
+        "vocabENG": "table",
+        "reading": "テーブル",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "カメラ",
+        "vocabENG": "camera",
+        "reading": "カメラ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "タクシー",
+        "vocabENG": "taxi",
+        "reading": "タクシー",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "スポーツ",
+        "vocabENG": "sport, sports",
+        "reading": "スポーツ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ラジオ",
+        "vocabENG": "radio",
+        "reading": "ラジオ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ペン",
+        "vocabENG": "pen",
+        "reading": "ペン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "レストラン",
+        "vocabENG": "restaurant (esp. Western-style)",
+        "reading": "レストラン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "テスト",
+        "vocabENG": "examination, quiz, test",
+        "reading": "テスト",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ベッド",
+        "vocabENG": "bed",
+        "reading": "ベッド",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "パン",
+        "vocabENG": "bread, (sweet) pastry",
+        "reading": "パン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ナイフ",
+        "vocabENG": "knife",
+        "reading": "ナイフ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "シャツ",
+        "vocabENG": "shirt (undergarment), undershirt, singlet",
+        "reading": "シャツ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ネクタイ",
+        "vocabENG": "tie, necktie",
+        "reading": "ネクタイ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ギター",
+        "vocabENG": "guitar",
+        "reading": "ギター",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "セーター",
+        "vocabENG": "sweater, jumper",
+        "reading": "セーター",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "アパート",
+        "vocabENG": "apartment building, apartment block, apartment house",
+        "reading": "アパート",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ポケット",
+        "vocabENG": "pocket",
+        "reading": "ポケット",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "バター",
+        "vocabENG": "butter",
+        "reading": "バター",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "キロ",
+        "vocabENG": "kilo-, 1000",
+        "reading": "キロ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "スカート",
+        "vocabENG": "skirt",
+        "reading": "スカート",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "レコード",
+        "vocabENG": "record (e.g. LP)",
+        "reading": "レコード",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "エレベーター",
+        "vocabENG": "elevator, lift",
+        "reading": "エレベーター",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ズボン",
+        "vocabENG": "trousers, pants",
+        "reading": "ズボン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ポスト",
+        "vocabENG": "postbox, mailbox, mail box, pillar box",
+        "reading": "ポスト",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "コピー",
+        "vocabENG": "copy, photocopy",
+        "reading": "コピー",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "シャワー",
+        "vocabENG": "shower",
+        "reading": "シャワー",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ハンカチ",
+        "vocabENG": "handkerchief",
+        "reading": "ハンカチ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一昨日",
+        "vocabENG": "day before yesterday",
+        "reading": "一昨日[おととい]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "テープ",
+        "vocabENG": "tape",
+        "reading": "テープ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ストーブ",
+        "vocabENG": "(room) heater, stove",
+        "reading": "ストーブ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "カップ",
+        "vocabENG": "cup (drinking vessel, measure, brassiere, prize, etc.)",
+        "reading": "カップ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "テープレコーダー",
+        "vocabENG": "tape recorder",
+        "reading": "テープレコーダー",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ボールペン",
+        "vocabENG": "ball-point pen",
+        "reading": "ボールペン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "スプーン",
+        "vocabENG": "spoon",
+        "reading": "スプーン",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "スリッパ",
+        "vocabENG": "slipper, slippers",
+        "reading": "スリッパ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "醤油",
+        "vocabENG": "soy sauce, shoyu",
+        "reading": "醤油[しょうゆ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "はい",
+        "vocabENG": "yes, that is correct",
+        "reading": "はい",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ペット",
+        "vocabENG": "pet",
+        "reading": "ペット",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "三日",
+        "vocabENG": "3rd day of the month",
+        "reading": "三日[みっか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二日",
+        "vocabENG": "2nd day of the month",
+        "reading": "二日[ふつか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "五日",
+        "vocabENG": "5th day of the month",
+        "reading": "五日[いつか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "十日",
+        "vocabENG": "10th day of the month",
+        "reading": "十日[とおか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "六日",
+        "vocabENG": "6th day of the month",
+        "reading": "六日[むいか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "八日",
+        "vocabENG": "8th day of the month",
+        "reading": "八日[ようか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "九日",
+        "vocabENG": "9th day of the month",
+        "reading": "九日[ここのか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "来る",
+        "vocabENG": "to come (spatially or temporally), to approach, to arrive",
+        "reading": "来[く]る",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "後",
+        "vocabENG": "behind, rear",
+        "reading": "後[あと]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "会社",
+        "vocabENG": "company, corporation",
+        "reading": "会社[かいしゃ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一人",
+        "vocabENG": "one person",
+        "reading": "一人[ひとり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二人",
+        "vocabENG": "two persons, two people, pair, couple",
+        "reading": "二人[ふたり]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "辛い",
+        "vocabENG": "spicy, hot",
+        "reading": "辛[から]い",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "門",
+        "vocabENG": "gate",
+        "reading": "門[もん]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "角",
+        "vocabENG": "corner, edge",
+        "reading": "角[かど]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "毎月",
+        "vocabENG": "every month, each month, monthly",
+        "reading": "毎月[まいつき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "七",
+        "vocabENG": "seven",
+        "reading": "七[しち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "四",
+        "vocabENG": "four, 4",
+        "reading": "四[し]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お風呂",
+        "vocabENG": "Bathtub",
+        "reading": "おふろ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お酒",
+        "vocabENG": "alcohol, sake",
+        "reading": "お 酒[さけ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "入口",
+        "vocabENG": "entrance, entry, gate, approach, mouth",
+        "reading": "入口[いりぐち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "出口",
+        "vocabENG": "exit, gateway, way out",
+        "reading": "出口[でぐち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "お皿",
+        "vocabENG": "plate, dish",
+        "reading": "お 皿[さら]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "前",
+        "vocabENG": "in front (of), before (e.g. a building)",
+        "reading": "前[まえ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "もう",
+        "vocabENG": "now, soon, shortly, before long, presently",
+        "reading": "もう",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "方",
+        "vocabENG": "direction, way",
+        "reading": "方[かた]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "もっと",
+        "vocabENG": "(some) more, even more, longer, further",
+        "reading": "もっと",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "パーティ",
+        "vocabENG": "party (gathering, celebration, etc.)",
+        "reading": "パーティ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "他",
+        "vocabENG": "other (place, thing, person), the rest, et al.",
+        "reading": "他[ほか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "次",
+        "vocabENG": "next, following, subsequent",
+        "reading": "次[つぎ]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ドア",
+        "vocabENG": "door (Western-style, car, etc.)",
+        "reading": "ドア",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "誰か",
+        "vocabENG": "someone, somebody",
+        "reading": "誰[だれ]か",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "開く",
+        "vocabENG": "to open (e.g. doors)",
+        "reading": "開[あ]く",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "どうぞ",
+        "vocabENG": "please, kindly, pray, I beg (of you)",
+        "reading": "どうぞ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "こんな",
+        "vocabENG": "this sort of, this kind of, like this, such",
+        "reading": "こんな",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "下",
+        "vocabENG": "below, down, under, younger (e.g. daughter)",
+        "reading": "下[した]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ゆっくり",
+        "vocabENG": "slowly, unhurriedly, without haste, leisurely, at one's leisure",
+        "reading": "ゆっくり",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "さあ",
+        "vocabENG": "come, come now, come along, go on, hurry up",
+        "reading": "さあ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "どうも",
+        "vocabENG": "thank you, thanks",
+        "reading": "どうも",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "じゃあ",
+        "vocabENG": "then, well, so, well then",
+        "reading": "じゃあ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ええ",
+        "vocabENG": "yes, that is correct, right",
+        "reading": "ええ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ノート",
+        "vocabENG": "notebook, copy-book, exercise book",
+        "reading": "ノート",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "デパート",
+        "vocabENG": "department store",
+        "reading": "デパート",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "トイレ",
+        "vocabENG": "toilet, restroom, bathroom, lavatory",
+        "reading": "トイレ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "其れでは",
+        "vocabENG": "well, ..., right, ..., now, ...",
+        "reading": "其[そ]れでは",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "明後日",
+        "vocabENG": "day after tomorrow",
+        "reading": "明後日[あさって]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "二十歳",
+        "vocabENG": "20 years old",
+        "reading": "二十歳[はたち]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "では",
+        "vocabENG": "then, well, so, well then",
+        "reading": "では",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "フィルム",
+        "vocabENG": "film",
+        "reading": "フィルム",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "四日",
+        "vocabENG": "4th day of the month",
+        "reading": "四日[よっか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "カレンダー",
+        "vocabENG": "calendar",
+        "reading": "カレンダー",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "七日",
+        "vocabENG": "7th day of the month",
+        "reading": "七日[なのか]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "一月",
+        "vocabENG": "one month",
+        "reading": "一月[ひとつき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "あのう",
+        "vocabENG": "say, well, um, er",
+        "reading": "あのう",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "秋",
+        "vocabENG": "autumn, fall",
+        "reading": "秋[あき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "字引",
+        "vocabENG": "dictionary",
+        "reading": "字引[じびき]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "バス",
+        "vocabENG": "bus",
+        "reading": "バス",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "コート",
+        "vocabENG": "coat",
+        "reading": "コート",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "フォーク",
+        "vocabENG": "fork",
+        "reading": "フォーク",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ラジカセ",
+        "vocabENG": "radio-cassette player",
+        "reading": "ラジカセ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "マッチ",
+        "vocabENG": "match (contest)",
+        "reading": "マッチ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "ＰＥＴ",
+        "vocabENG": "polyethylene terephthalate, PET",
+        "reading": "ＰＥＴ",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    },
+    {
+        "vocabJP": "歯",
+        "vocabENG": "tooth",
+        "reading": "歯[は]",
+        "SRS": 1,
+        "dueDate": "2025-08-12"
+    }
+    ]
+    }
